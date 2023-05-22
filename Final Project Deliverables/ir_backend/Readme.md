@@ -4,6 +4,5 @@
 2. [clip](https://drive.google.com/drive/folders/1p2FqYdXkyavyk5_gpwQfN0jCPbXsmsnN?usp=sharing)
 
 # Instructions to run backend
-1. Go inside the backend folder.
-2. Open command prompt inside it.
-3. Run command python main.py
+1. Open command prompt inside backend folder.
+2. Run command python main.py
