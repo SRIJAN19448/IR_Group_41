@@ -1,5 +1,5 @@
 # Instructions to setup frontend
-1. Go inside frontend folder and open command prompt.
+1. Open command prompt inside frontend folder.
 2. Run command npm install to install all dependencies.
 
 # Instructions to run frontend
